@@ -1,3 +1,11 @@
 .cliff-h1{
     color: #99ccff;
 }
+.bg{
+     background-image: url('https://usagif.com/wp-content/uploads/gif/outerspace-12.gif');
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 42.5vw;
+     font-size: 50px;
+
+}
